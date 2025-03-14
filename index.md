@@ -1,5 +1,5 @@
 ---
-title: Evergreen SPeed
+title: Evergreen Speed
 layout: home
 header:
   image: /assets/images/header_two_karts.jpg
